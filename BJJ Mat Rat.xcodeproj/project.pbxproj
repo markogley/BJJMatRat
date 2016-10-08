@@ -7,23 +7,45 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5B1723CD1D832F3D00811B14 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5B1723CC1D832F3D00811B14 /* Main.storyboard */; };
+		5B45B5E31D9DAF8E00B5673F /* CustomUIViewMethods.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B45B5E21D9DAF8E00B5673F /* CustomUIViewMethods.swift */; };
+		5B54990E1DA5616500FF6AEA /* Stretch+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B54990C1DA5616500FF6AEA /* Stretch+CoreDataClass.swift */; };
+		5B54990F1DA5616500FF6AEA /* Stretch+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B54990D1DA5616500FF6AEA /* Stretch+CoreDataProperties.swift */; };
+		5B6D27A61D8795DA009E6CD7 /* StretchingList.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5B6D27A51D8795DA009E6CD7 /* StretchingList.plist */; };
+		5B6D27A91D879AFF009E6CD7 /* DrillList.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5B6D27A81D879AFF009E6CD7 /* DrillList.plist */; };
+		5B6DB92F1D9589EA00F27E5C /* CircleProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B6DB92E1D9589EA00F27E5C /* CircleProgressView.swift */; };
 		5B76A5891D830BDC0027A678 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B76A5881D830BDC0027A678 /* AppDelegate.swift */; };
 		5B76A58B1D830BDC0027A678 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B76A58A1D830BDC0027A678 /* ViewController.swift */; };
-		5B76A58E1D830BDC0027A678 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5B76A58C1D830BDC0027A678 /* Main.storyboard */; };
 		5B76A5911D830BDC0027A678 /* BJJ_Mat_Rat.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 5B76A58F1D830BDC0027A678 /* BJJ_Mat_Rat.xcdatamodeld */; };
 		5B76A5931D830BDC0027A678 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5B76A5921D830BDC0027A678 /* Assets.xcassets */; };
 		5B76A5961D830BDC0027A678 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5B76A5941D830BDC0027A678 /* LaunchScreen.storyboard */; };
+		5B76A5A01D8321D20027A678 /* ExerciseListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B76A59F1D8321D20027A678 /* ExerciseListViewController.swift */; };
+		5B99CEEB1D88714C00AD0B2A /* DisplayExerciseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B99CEEA1D88714C00AD0B2A /* DisplayExerciseViewController.swift */; };
+		5BCD3B6E1D904BA6001741B8 /* TimingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BCD3B6D1D904BA6001741B8 /* TimingViewController.swift */; };
+		5BE7CB9C1DA83E0B00AECF63 /* Drill+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BE7CB9A1DA83E0B00AECF63 /* Drill+CoreDataClass.swift */; };
+		5BE7CB9D1DA83E0B00AECF63 /* Drill+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BE7CB9B1DA83E0B00AECF63 /* Drill+CoreDataProperties.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5B1723CC1D832F3D00811B14 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		5B45B5E21D9DAF8E00B5673F /* CustomUIViewMethods.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomUIViewMethods.swift; sourceTree = "<group>"; };
+		5B54990C1DA5616500FF6AEA /* Stretch+CoreDataClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Stretch+CoreDataClass.swift"; sourceTree = "<group>"; };
+		5B54990D1DA5616500FF6AEA /* Stretch+CoreDataProperties.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Stretch+CoreDataProperties.swift"; sourceTree = "<group>"; };
+		5B6D27A51D8795DA009E6CD7 /* StretchingList.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = StretchingList.plist; sourceTree = "<group>"; };
+		5B6D27A81D879AFF009E6CD7 /* DrillList.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = DrillList.plist; sourceTree = "<group>"; };
+		5B6DB92E1D9589EA00F27E5C /* CircleProgressView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CircleProgressView.swift; sourceTree = "<group>"; };
 		5B76A5851D830BDB0027A678 /* BJJ Mat Rat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "BJJ Mat Rat.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5B76A5881D830BDC0027A678 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5B76A58A1D830BDC0027A678 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		5B76A58D1D830BDC0027A678 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		5B76A5901D830BDC0027A678 /* BJJ_Mat_Rat.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = BJJ_Mat_Rat.xcdatamodel; sourceTree = "<group>"; };
 		5B76A5921D830BDC0027A678 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5B76A5951D830BDC0027A678 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5B76A5971D830BDC0027A678 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5B76A59F1D8321D20027A678 /* ExerciseListViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ExerciseListViewController.swift; sourceTree = "<group>"; };
+		5B99CEEA1D88714C00AD0B2A /* DisplayExerciseViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DisplayExerciseViewController.swift; sourceTree = "<group>"; };
+		5BCD3B6D1D904BA6001741B8 /* TimingViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TimingViewController.swift; sourceTree = "<group>"; };
+		5BE7CB9A1DA83E0B00AECF63 /* Drill+CoreDataClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Drill+CoreDataClass.swift"; sourceTree = "<group>"; };
+		5BE7CB9B1DA83E0B00AECF63 /* Drill+CoreDataProperties.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Drill+CoreDataProperties.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,9 +59,38 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		5B45B5E11D9DAF5600B5673F /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				5B45B5E21D9DAF8E00B5673F /* CustomUIViewMethods.swift */,
+			);
+			name = Extensions;
+			sourceTree = "<group>";
+		};
+		5B6D27A71D879760009E6CD7 /* Exercise Data */ = {
+			isa = PBXGroup;
+			children = (
+				5B6D27A51D8795DA009E6CD7 /* StretchingList.plist */,
+				5B6D27A81D879AFF009E6CD7 /* DrillList.plist */,
+			);
+			name = "Exercise Data";
+			sourceTree = "<group>";
+		};
+		5B6DB92D1D9589BE00F27E5C /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				5B6DB92E1D9589EA00F27E5C /* CircleProgressView.swift */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		5B76A57C1D830BDB0027A678 = {
 			isa = PBXGroup;
 			children = (
+				5BE7CB9A1DA83E0B00AECF63 /* Drill+CoreDataClass.swift */,
+				5BE7CB9B1DA83E0B00AECF63 /* Drill+CoreDataProperties.swift */,
+				5B54990C1DA5616500FF6AEA /* Stretch+CoreDataClass.swift */,
+				5B54990D1DA5616500FF6AEA /* Stretch+CoreDataProperties.swift */,
 				5B76A5871D830BDC0027A678 /* BJJ Mat Rat */,
 				5B76A5861D830BDB0027A678 /* Products */,
 			);
@@ -57,14 +108,28 @@
 			isa = PBXGroup;
 			children = (
 				5B76A5881D830BDC0027A678 /* AppDelegate.swift */,
-				5B76A58A1D830BDC0027A678 /* ViewController.swift */,
-				5B76A58C1D830BDC0027A678 /* Main.storyboard */,
+				5B6DB92D1D9589BE00F27E5C /* Frameworks */,
+				5B45B5E11D9DAF5600B5673F /* Extensions */,
+				5BCD3B6F1D904BB7001741B8 /* Views */,
+				5B1723CC1D832F3D00811B14 /* Main.storyboard */,
 				5B76A5921D830BDC0027A678 /* Assets.xcassets */,
 				5B76A5941D830BDC0027A678 /* LaunchScreen.storyboard */,
 				5B76A5971D830BDC0027A678 /* Info.plist */,
 				5B76A58F1D830BDC0027A678 /* BJJ_Mat_Rat.xcdatamodeld */,
+				5B6D27A71D879760009E6CD7 /* Exercise Data */,
 			);
 			path = "BJJ Mat Rat";
+			sourceTree = "<group>";
+		};
+		5BCD3B6F1D904BB7001741B8 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				5B76A58A1D830BDC0027A678 /* ViewController.swift */,
+				5BCD3B6D1D904BA6001741B8 /* TimingViewController.swift */,
+				5B76A59F1D8321D20027A678 /* ExerciseListViewController.swift */,
+				5B99CEEA1D88714C00AD0B2A /* DisplayExerciseViewController.swift */,
+			);
+			name = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -94,12 +159,13 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0730;
-				LastUpgradeCheck = 0730;
+				LastUpgradeCheck = 0800;
 				ORGANIZATIONNAME = "Mark Ogley";
 				TargetAttributes = {
 					5B76A5841D830BDB0027A678 = {
 						CreatedOnToolsVersion = 7.3.1;
 						DevelopmentTeam = AZR9BGL87V;
+						LastSwiftMigration = 0800;
 					};
 				};
 			};
@@ -126,9 +192,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5B1723CD1D832F3D00811B14 /* Main.storyboard in Resources */,
+				5B6D27A61D8795DA009E6CD7 /* StretchingList.plist in Resources */,
+				5B6D27A91D879AFF009E6CD7 /* DrillList.plist in Resources */,
 				5B76A5961D830BDC0027A678 /* LaunchScreen.storyboard in Resources */,
 				5B76A5931D830BDC0027A678 /* Assets.xcassets in Resources */,
-				5B76A58E1D830BDC0027A678 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -139,8 +207,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5BCD3B6E1D904BA6001741B8 /* TimingViewController.swift in Sources */,
+				5B45B5E31D9DAF8E00B5673F /* CustomUIViewMethods.swift in Sources */,
+				5B76A5A01D8321D20027A678 /* ExerciseListViewController.swift in Sources */,
+				5BE7CB9D1DA83E0B00AECF63 /* Drill+CoreDataProperties.swift in Sources */,
 				5B76A58B1D830BDC0027A678 /* ViewController.swift in Sources */,
+				5B54990E1DA5616500FF6AEA /* Stretch+CoreDataClass.swift in Sources */,
+				5B6DB92F1D9589EA00F27E5C /* CircleProgressView.swift in Sources */,
 				5B76A5891D830BDC0027A678 /* AppDelegate.swift in Sources */,
+				5B99CEEB1D88714C00AD0B2A /* DisplayExerciseViewController.swift in Sources */,
+				5BE7CB9C1DA83E0B00AECF63 /* Drill+CoreDataClass.swift in Sources */,
+				5B54990F1DA5616500FF6AEA /* Stretch+CoreDataProperties.swift in Sources */,
 				5B76A5911D830BDC0027A678 /* BJJ_Mat_Rat.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -148,14 +225,6 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		5B76A58C1D830BDC0027A678 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				5B76A58D1D830BDC0027A678 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		5B76A5941D830BDC0027A678 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -181,8 +250,10 @@
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
@@ -227,8 +298,10 @@
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
@@ -247,6 +320,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 			};
@@ -257,9 +331,11 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "BJJ Mat Rat/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mogley.BJJ-Mat-Rat";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
@@ -268,9 +344,11 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "BJJ Mat Rat/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mogley.BJJ-Mat-Rat";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
 		};
@@ -293,6 +371,7 @@
 				5B76A59C1D830BDC0027A678 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 

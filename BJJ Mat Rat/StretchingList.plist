@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Neck Stretch Up</string>
+		<key>detail</key>
+		<string>Take your two thumbs and place them under your chin. Look up while gently pushing up with your thumbs.</string>
+		<key>skipped</key>
+		<integer>0</integer>
+		<key>image</key>
+		<string></string>
+		<key>body</key>
+		<string>upper</string>
+		<key>sides</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Neck Stretch Down</string>
+		<key>detail</key>
+		<string>Interlock your fingers and place them behind your head. Look down, touching your chin to your chest and gently push down on the back of your head.</string>
+		<key>skipped</key>
+		<integer>0</integer>
+		<key>image</key>
+		<string></string>
+		<key>body</key>
+		<string>upper</string>
+		<key>sides</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Neck Stretch</string>
+		<key>detail</key>
+		<string>Tilt you head bringing your ear as close to your shoulder as you can. Take your other hand and gently pull your head towards your shoulder.</string>
+		<key>skipped</key>
+		<integer>0</integer>
+		<key>image</key>
+		<string></string>
+		<key>body</key>
+		<string>upper</string>
+		<key>sides</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Neck Circles</string>
+		<key>detail</key>
+		<string>Circle your neck slowly.</string>
+		<key>skipped</key>
+		<integer>0</integer>
+		<key>image</key>
+		<string></string>
+		<key>body</key>
+		<string>upper</string>
+		<key>sides</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Shoulder Circles</string>
+		<key>detail</key>
+		<string>Hold your arms up at your sides and do small circles.</string>
+		<key>skipped</key>
+		<integer>0</integer>
+		<key>image</key>
+		<string></string>
+		<key>body</key>
+		<string>upper</string>
+		<key>sides</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Arm Across Chest Stretch</string>
+		<key>detail</key>
+		<string>Take your arm and bring it across your chest. Leave some space between your neck and your arm. With your other arm pull gently by the tricep for more stretch.</string>
+		<key>skipped</key>
+		<integer>0</integer>
+		<key>image</key>
+		<string></string>
+		<key>body</key>
+		<string>upper</string>
+		<key>sides</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Tricep Behind Head Stretch</string>
+		<key>detail</key>
+		<string>Raise your arm above your head. Bend it at the elbow back so your hand is on the back of your neck. With your other hand gently pull on the elbow to increase the stretch.</string>
+		<key>skipped</key>
+		<integer>0</integer>
+		<key>image</key>
+		<string></string>
+		<key>body</key>
+		<string>upper</string>
+		<key>sides</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Forearm Stretch</string>
+		<key>detail</key>
+		<string>Extend your arm infront of you palm up. With your other hand gently grab your fingers and pull them towards your wrist.</string>
+		<key>skipped</key>
+		<integer>0</integer>
+		<key>image</key>
+		<string></string>
+		<key>body</key>
+		<string>upper</string>
+		<key>sides</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Side Stretch</string>
+		<key>detail</key>
+		<string>With your feet together raise your right arm over your head. Bend from the waist towards your left looking up at your arm.</string>
+		<key>skipped</key>
+		<integer>0</integer>
+		<key>image</key>
+		<integer>0</integer>
+		<key>body</key>
+		<string></string>
+		<key>sides</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Hip Circles</string>
+		<key>detail</key>
+		<string>With your feel hip width apart place your hands on your hips. Circle your hips to the right while trying to keep your head in one place.</string>
+		<key>skipped</key>
+		<integer>0</integer>
+		<key>image</key>
+		<string></string>
+		<key>body</key>
+		<string>lower</string>
+		<key>sides</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Quadricep Stretch</string>
+		<key>detail</key>
+		<string>Standing with your feet together bring your left foot towards your butt. Reach back with your left hand and gently pull on the foot for more stretch. Keep your posture upright as much as possible.</string>
+		<key>skipped</key>
+		<integer>0</integer>
+		<key>image</key>
+		<string></string>
+		<key>body</key>
+		<string>lower</string>
+		<key>sides</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Knee Circles</string>
+		<key>detail</key>
+		<string>With you feet and knees together place your hands on your knees and rotate them slowly in a circle.</string>
+		<key>skipped</key>
+		<integer>0</integer>
+		<key>image</key>
+		<string></string>
+		<key>body</key>
+		<string>lower</string>
+		<key>sides</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Butterfly Stretch</string>
+		<key>detail</key>
+		<string>Sit on the ground with the bottoms of your feet touching, pull your feet towards you. Grab the outside of your feet with your hands and use your forearms to open up your legs.</string>
+		<key>skipped</key>
+		<integer>0</integer>
+		<key>image</key>
+		<string></string>
+		<key>body</key>
+		<string>lower</string>
+		<key>sides</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Feet Over Head Stretch</string>
+		<key>detail</key>
+		<string>Lay down on the ground and bring your feet towards your head so that they touch the ground above your head.</string>
+		<key>skipped</key>
+		<integer>0</integer>
+		<key>image</key>
+		<string></string>
+		<key>body</key>
+		<string>whole</string>
+		<key>sides</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Nest Stretch</string>
+		<key>detail</key>
+		<string>Sit out the ground with your legs in an S position. Lean forward and towards the foot infront til you feel the stretch.</string>
+		<key>skipped</key>
+		<integer>0</integer>
+		<key>image</key>
+		<string></string>
+		<key>body</key>
+		<string>lower</string>
+		<key>sides</key>
+		<true/>
+	</dict>
+</array>
+</plist>
